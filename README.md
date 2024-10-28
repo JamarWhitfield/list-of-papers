@@ -19,6 +19,15 @@
 * [UL2](https://arxiv.org/abs/2205.05131 "UL2: Unifying Language Learning Paradigms (Tay et al., 2022)")
 * [PaLI](https://arxiv.org/abs/2209.06794 "PaLI: A Jointly-Scaled Multilingual Language-Image Model (Chen et al., 2022)")
 * [Mixture of Experts Meets Instruction Tuning](https://arxiv.org/abs/2305.14705 "Mixture of Experts Meets Instruction Tuning (Zhou et al., 2023)")
+* [Mamba](https://arxiv.org/abs/2312.00752 "Mamba: Linear-Time Sequence Modeling with Selective State Spaces (Gu & Dao, 2023)")
+* [Mistral 7B](https://arxiv.org/abs/2310.06825 "Mistral 7B: A New Era in Open LLM (Jiang et al., 2023)")
+* [Phi-2](https://arxiv.org/abs/2310.16782 "Phi-2: The surprising power of small language models (Li et al., 2023)")
+* [RWKV](https://arxiv.org/abs/2305.13048 "RWKV: Reinventing RNNs for the Transformer Era (Peng et al., 2023)")
+
+## Training Techniques & Optimization
+* [QLoRA](https://arxiv.org/abs/2305.14314 "QLoRA: Efficient Finetuning of Quantized LLMs (Dettmers et al., 2023)")
+* [LongNet](https://arxiv.org/abs/2307.02486 "LongNet: Scaling Transformers to 1,000,000,000 Tokens (Ding et al., 2023)")
+* [Sparse Mixers](https://arxiv.org/abs/2310.19906 "Sparse Mixers: Combining MoE and State Space Models for Memory-Efficient LLMs (Yu et al., 2023)")
 
 ## Vision & Multi-Modal
 
@@ -43,6 +52,9 @@
 * [Flamingo](https://arxiv.org/abs/2204.14198 "Flamingo: a Visual Language Model for Few-Shot Learning (Alayrac et al., 2022)")
 * [ImageBind](https://arxiv.org/abs/2305.05665 "ImageBind: One Embedding Space To Bind Them All (Goh et al., 2023)")
 * [Muse](https://arxiv.org/abs/2301.00704 "Muse: Text-To-Image Generation via Masked Generative Transformers (Chang et al., 2023)")
+* [GPT-4V](https://cdn.openai.com/papers/GPTV_System_Card.pdf "GPT-4V(ision): An Overview of Multimodal Capabilities (OpenAI, 2023)")
+* [CM3leon](https://arxiv.org/abs/2308.08947 "CM3leon: A General-Purpose Multimodal Model (Lu et al., 2023)")
+* [LLaVA](https://arxiv.org/abs/2304.08485 "Visual Instruction Tuning (Liu et al., 2023)")
 
 ## NLP & Language Models
 * [GPT-3](https://arxiv.org/abs/2005.14165 "Language Models are Few-Shot Learners (Brown et al., 2020)")
@@ -59,25 +71,37 @@
 * [Atlas](https://arxiv.org/abs/2208.03299 "Atlas: Few-shot Learning via Memory Access with Large Language Models (Yu et al., 2022)")
 * [Memorizing Transformers](https://arxiv.org/abs/2203.08913 "Memorizing Transformers (Wu et al., 2022)")
 * [Self-RAG](https://arxiv.org/abs/2310.11511 "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection (Asai et al., 2023)")
+* [Internet-Augmented Generation](https://arxiv.org/abs/2302.04245 "Internet-augmented dialogue generation (Liu et al., 2023)")
+* [Multimodel RAG](https://arxiv.org/abs/2401.00812 "MultiModal RAG: Learning to Retrieve, Generate, and Ground across Modalities (Yasunaga & Rong, 2024)")
+* [RAPTOR](https://arxiv.org/abs/2401.18059 "RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval (Kandpal et al., 2024)")
 
 ## Agents & Planning
 * [ReAct](https://arxiv.org/abs/2210.03629 "ReAct: Synergizing Reasoning and Acting in Language Models (Yao et al., 2022)")
 * [Tree of Thoughts](https://arxiv.org/abs/2305.10601 "Tree of Thoughts: Deliberate Problem Solving with Large Language Models (Yao et al., 2023)")
 * [Graph of Thoughts](https://arxiv.org/abs/2308.09687 "Graph of Thoughts: Solving Elaborate Problems with Large Language Models (Chen et al., 2023)")
 * [LLM+P](https://arxiv.org/abs/2304.11477 "LLM+P: Empowering Large Language Models with Optimal Planning Proficiency (Liu et al., 2023)")
+* [Tool-Learning](https://arxiv.org/abs/2311.10775 "Tool-Learning with Foundation Models: A Survey (Zhou et al., 2023)")
+* [Reflexion](https://arxiv.org/abs/2303.11366 "Reflexion: Language Agents with Verbal Reinforcement Learning (Shinn et al., 2023)")
+* [AutoGen](https://arxiv.org/abs/2308.08155 "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation (Wu et al., 2023)")
 
 ## Systems & Efficiency
 * [FlashAttention](https://arxiv.org/abs/2205.14135 "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness (Dao et al., 2022)")
 * [FlashAttention-2](https://arxiv.org/abs/2307.08691 "FlashAttention-2: Faster Attention with Better Parallelism (Dao et al., 2023)")
 * [MEGABYTE](https://arxiv.org/abs/2305.07185 "MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers (Anil et al., 2023)")
+* [vLLM](https://arxiv.org/abs/2309.06180 "vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention (Kwon et al., 2023)")
+* [TokenFlow](https://arxiv.org/abs/2401.00448 "TokenFlow: Consistent Diffusion Features for Consistent Video Editing (Hesse et al., 2024)")
+* [Gorilla](https://arxiv.org/abs/2305.15334 "Gorilla: Large Language Model Connected with Massive APIs (Patil et al., 2023)")
 
 ## Evaluation & Safety
 * [Scalable Oversight](https://arxiv.org/abs/2211.03540 "Measuring Progress on Scalable Oversight for Large Language Models (Askell et al., 2022)")
 * [Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916 "Language Models are Zero-Shot Reasoners (Kojima et al., 2022)")
 * [Watermarking](https://arxiv.org/abs/2301.10226 "On the Reliability of Watermarks for Large Language Models (Kirchenbauer et al., 2023)")
 * [Pythia](https://arxiv.org/abs/2304.01373 "Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling (Biderman et al., 2023)")
+* [ToxiGen](https://arxiv.org/abs/2203.09509 "ToxiGen: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection (Hartvigsen et al., 2022)")
+* [Red Teaming Language Models](https://arxiv.org/abs/2202.03286 "Red Teaming Language Models with Language Models (Perez et al., 2022)")
+* [DecodingTrust](https://arxiv.org/abs/2306.11698 "DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models (AlQaraawi et al., 2023)")
 
 ## Novel Applications
 * [NeRF](https://arxiv.org/abs/2003.08934 "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis (Mildenhall et al., 2020)")
 * [AlphaFold](https://www.nature.com/articles/s41586-021-03819-2 "Highly accurate protein structure prediction with AlphaFold (Jumper et al., 2021)")
-* [Bayesian Flow Networks](https://arxiv.org/abs/2308.07037 "Bayesian Flow Networks (Zhang & Ho, 2023)")
+* [Bayesian Flow Networks](https://arxiv.org/abs/2308.07037 "Bayesian Flow Networks")
