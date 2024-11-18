@@ -97,7 +97,7 @@ Please ensure your contributions:
 This is a living document that will be updated as new significant papers are published and as the field evolves.
 
 ---
-*Last Updated: October 2024*
+*Last Updated: November 2024*
 
 # AI Research Papers Reading List
 
@@ -139,6 +139,14 @@ This is a living document that will be updated as new significant papers are pub
 * [Understanding Deep Learning Requires Rethinking Generalization](https://arxiv.org/abs/1611.03530) - Zhang et al., 2017
 * [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682) - Wei et al., 2022
 * [A Mathematical Framework for Transformer Circuits](https://arxiv.org/abs/2202.01714) - Elhage et al., 2021
+* [The First Law of Complexodynamics](https://arxiv.org/abs/xxx) - Aaronson, 2023
+* [The Unreasonable Effectiveness of Recurrent Neural Networks](https://arxiv.org/abs/xxx) - Karpathy, 2015
+* [Understanding LSTM Networks](https://arxiv.org/abs/xxx) - Olah, 2015
+* [Keeping Neural Networks Simple by Minimizing the Description Length of the Weights](https://arxiv.org/abs/xxx) - Hinton & van Camp, 1993
+* [Quantifying the Rise and Fall of Complexity in Closed Systems: the Coffee Automaton](https://arxiv.org/abs/xxx) - Aaronson et al., 2023
+* [A Tutorial Introduction to the Minimum Description Length Principle](https://arxiv.org/abs/xxx) - Grünwald, 2005
+* [Kolmogorov Complexity and Algorithmic Randomness](https://arxiv.org/abs/xxx) - Shen, Uspensky & Vereshchagin, 2017
+* [Machine Super Intelligence](https://arxiv.org/abs/xxx) - Legg, 2008
 
 ## Foundation Models & Architecture
 * [GPT-3](https://arxiv.org/abs/2005.14165) - Brown et al., 2020
@@ -155,6 +163,11 @@ This is a living document that will be updated as new significant papers are pub
 * [Phi-2](https://arxiv.org/abs/2310.16782) - Li et al., 2023
 * [Mamba](https://arxiv.org/abs/2312.00752) - Gu & Dao, 2023
 * [Qwen2 Technical Report](https://arxiv.org/abs/2401.08855) - Qwen Team, 2024
+* [Pointer Networks](https://arxiv.org/abs/1506.03134) - Vinyals, Fortunato & Jaitly, 2015
+* [Order Matters: Sequence to Sequence for Sets](https://arxiv.org/abs/1511.06391) - Vinyals, Bengio & Kudlur, 2015
+* [Relational Recurrent Neural Networks](https://arxiv.org/abs/1806.01822) - Santoro et al., 2018
+* [A Simple Neural Network Module for Relational Reasoning](https://arxiv.org/abs/1706.01427) - Santoro et al., 2017
+* [Variational Lossy Autoencoder](https://arxiv.org/abs/1611.02731) - Chen et al., 2016 CopyRetryClaude does not have the ability to run the code it generates yet.
 
 ## Training Techniques & Optimization
 * [QLoRA](https://arxiv.org/abs/2305.14314) - Dettmers et al., 2023
@@ -207,6 +220,7 @@ This is a living document that will be updated as new significant papers are pub
 * [LLaMA](https://arxiv.org/abs/2302.13971) - Touvron et al., 2023
 * [LLaMA 2](https://arxiv.org/abs/2307.09288) - Touvron et al., 2023
 * [Toolformer](https://arxiv.org/abs/2302.04761) - Schick et al., 2023
+* [Deep Speech 2: End-to-End Speech Recognition in English and Mandarin](https://arxiv.org/abs/xxx) - Baidu Research, 2015
 
 ## Graph Neural Networks
 * [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/abs/1812.08434) - Zhou et al., 2020
@@ -235,6 +249,7 @@ This is a living document that will be updated as new significant papers are pub
 * [MEGABYTE](https://arxiv.org/abs/2305.07185) - Anil et al., 2023
 * [vLLM](https://arxiv.org/abs/2309.06180) - Kwon et al., 2023
 * [TokenFlow](https://arxiv.org/abs/2401.00448) - Hesse et al., 2024
+* [Tokenization Counts](https://arxiv.org/abs/2402.14903) - Singh et al, 2024
 * [Gorilla](https://arxiv.org/abs/2305.15334) - Patil et al., 2023
 
 ## Evaluation & Safety
